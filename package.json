@@ -4,6 +4,7 @@
   "keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"author": "0x4Bh",
   "license": "MIT",
+  "version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
